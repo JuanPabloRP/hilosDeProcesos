@@ -14,7 +14,12 @@ namespace hilosDeProcesos
     {
         int counterLbl1 = 1, lbl1Velocity = 2, counterLbl2 = 1, lbl2Velocity = 2, counterLbl3 = 1, lbl2Velocity3 = 2, lbl3Velocity = 2;
         bool lbl1WentTo100 = false, lbl1WentTo1 = true, lbl2WentTo20 = false, lbl2WentTo1 = true, lbl3WentToTheFinal = false, lbl3WentToTheBegin = true;
-
+        
+        /// <summary>
+        ///  Juan Pablo Roldan Patiño
+        ///  2023
+        ///  Aplicacion para ver como en c# hacemos uso de hilos de proceso
+        /// </summary>
         
         public frmMain()
         {
